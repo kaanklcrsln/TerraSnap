@@ -1,5 +1,5 @@
 # TerraSnap - AI Based Satellite Image Analysis Application
->[Live Demo](https://kaanklcrsln.github.io/terrasnap)
+>[Live Demo](https://kaanklcrsln.github.io/TerraSnap)
 
 ## Project Description
 
