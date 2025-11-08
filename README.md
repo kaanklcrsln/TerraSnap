@@ -11,4 +11,4 @@ TerraSnap is a web application designed for the analysis of satellite imagery. I
 -   **Backend**: Python (Flask)
 -   **Frontend**: HTML, CSS, JavaScript
 -   **AI Model**: Hugging Face `nlpconnect/vit-gpt2-image-captioning`
--   **Libraries**: Requests, Pillow
+-   **Libraries**: Requests, Pillow .etc
